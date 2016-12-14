@@ -163,15 +163,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bourbon (~> 4.2, >= 4.2.7)
+  bourbon
   byebug
   coffee-rails (~> 4.2)
-  font-awesome-rails (~> 4.7)
+  font-awesome-rails
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
-  neat (~> 1.8)
-  normalize-rails (~> 4.1, >= 4.1.1)
+  neat
+  normalize-rails
   puma (~> 3.0)
   rails (~> 5.0.0, >= 5.0.0.1)
   sass-rails (~> 5.0)

@@ -28,10 +28,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Design
-gem 'font-awesome-rails', '~> 4.7'
-gem 'bourbon', '~> 4.2', '>= 4.2.7'
-gem 'neat', '~> 1.8'
-gem 'normalize-rails', '~> 4.1', '>= 4.1.1'
+gem "font-awesome-rails"
+gem 'bourbon'
+gem 'neat'
+gem "normalize-rails"
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
