@@ -140,7 +140,6 @@ Main components
 			padding: .6em 1em;
 			border-top: none;
 			border: none;
-			@include font-size(13px);
 			font-weight: bold;
 			text-transform: uppercase;
 		}
@@ -243,7 +242,7 @@ Main components
 		margin-top: $intro-height-L + $header-height-M;
 
 		p {
-			@include font-size(20px);
+			@include font-size(30px);
 		}
 	}
 }

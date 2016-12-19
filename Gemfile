@@ -34,6 +34,9 @@ gem 'neat'
 gem "normalize-rails"
 
 
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
